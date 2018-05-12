@@ -1,0 +1,30 @@
+_repo: History-of-the-Origin-Formation-and-Adoption-of-the-Constitution-of-the-United-States-Vol.-1W__40400
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtis, George Ticknor
+    aliases:
+    - Boylston, Peter
+    - Curtis, George Tickner
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '40607'
+    url: http://www.gutenberg.org/2009/agents/40607
+description: ''
+gutenberg_issued: '2012-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40400'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KF'
+- !lcsh 'Constitutional history -- United States'
+title: "History of the Origin, Formation, and Adoption of the Constitution of the\
+  \ United States, Vol. 1\r\nWith Notices of Its Principle Framers"
+url: http://www.gutenberg.org/ebooks/40400
